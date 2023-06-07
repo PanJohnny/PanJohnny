@@ -1,8 +1,7 @@
-# Hello there
+# Hello there 👋
 [![Website badge](https://img.shields.io/static/v1?label=Website&color=pink&message=panjohnny.vercel.app&style=flat-square)](https://panjohnny.vercel.app)
 [![ko-Fi](https://img.shields.io/badge/Ko--Fi-PanJohnny%20-hotpink?logo=kofi&logoColor=white)](https://ko-fi.com/H2H8E3DX9)
 [![Twitter](https://img.shields.io/twitter/follow/PanJohnny.1?label=Twitter)](https://twitter.com/PanJohnny.1)
-Hello there 👋
 
 My name is John and I code stuff in my freetime. I like playing videogames and petting my cat. Feel free to leave any feedback.
 
