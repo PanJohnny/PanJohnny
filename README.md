@@ -1,16 +1,10 @@
-# Hello there 👋
+# Ahoj
 [panjohnny.me](https://panjohnny.me)
 
-My name is John and I code stuff. Go Czech 🇨🇿 out my projects.
+Jsem Honza a programuju věci. Zde se můžete podívat na mé portfolio různých projektů.
 
-Alright, thanks for stopping by 😄
-
-![Kenobi starwars hello there](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
----
-
-# Stats for nerds
-These don't mean anything, but I like opensource and contributing to stuff.
+# Statistiky 
+(Co vůbec nic neznamenají)
 
 # ![Profile Stats](https://github-readme-stats.vercel.app/api?username=PanJohnny&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)
 
